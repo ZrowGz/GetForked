@@ -23,4 +23,4 @@ Snapshot: https://snapshot.org/#/getforked.eth
 Community Wallet (Gnosis Safe) (ONLY ON ETHEREUM & POLYGON): 0x6E0Bb5f8Ea4dC100b2D5CDf6c68fA26277768be8
 Allocation Wallet (all chains, single signer): 0x3BDc8377e5607DDde0E731333aa4e015A49297A7
 
-Token on Polygon - FORKED (GTFKD): 0x5ab76729a7792fc2a4Af402A6E8a2d1d9D9db3C1
+Token on Polygon - FORKED (GTFKD): 0xd834501f04b4a0c4d60e77350A6e2D62CC28F380
